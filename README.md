@@ -6,4 +6,4 @@ docker-compose exec node ash
 yarn && yarn start
 ```
 
-![Demo](./done.jpg)
+![Demo](./demo.jpg)
